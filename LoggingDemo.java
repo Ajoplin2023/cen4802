@@ -8,6 +8,9 @@ import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 public class LoggingDemo {
+    /**
+     * the demologger below will evaluate the log levels and display then on to the logdemo.log file
+     */
         private static Logger demologger = LogManager.getLogger(LoggingDemo.class.getName());
 
         public static void main(String[] args){
