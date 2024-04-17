@@ -1,0 +1,216 @@
+22:02:17.762 [main] INFO  com.maventest.LoggingDemo - Click Successful
+22:02:17.765 [main] ERROR com.maventest.LoggingDemo - DB Connection Failed
+22:02:17.765 [main] DEBUG com.maventest.LoggingDemo - This is Debugged
+22:06:40.133 [main] INFO  com.maventest.LoggingDemo - Click Successful
+22:06:40.138 [main] ERROR com.maventest.LoggingDemo - DB Connection Failed
+22:06:40.138 [main] DEBUG com.maventest.LoggingDemo - This is Debugged
+21:20:13.302 [main] INFO  com.maventest.LoggingDemo - Click Successful
+21:21:56.819 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:21:56.831 [main] INFO  com.maventest.LoggingDemo - Finished Counting words
+21:25:57.307 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.317 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.318 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.319 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.320 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.321 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.321 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.322 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.322 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.324 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.324 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.325 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.325 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.326 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.326 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.328 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.328 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.329 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.329 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.331 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.331 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.332 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.332 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.333 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.333 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.335 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.335 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.336 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.336 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.337 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.337 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.337 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.338 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.338 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.339 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.339 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.340 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.340 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.340 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.341 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.341 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.342 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.342 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.343 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.343 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.344 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.344 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.345 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.345 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.346 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.346 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.347 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.347 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.347 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.348 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.348 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.348 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.349 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.349 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.349 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.349 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.350 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.350 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.351 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.351 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.352 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.352 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.353 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.353 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.353 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.354 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.354 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.354 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.355 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.355 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.356 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.356 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.356 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.357 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.357 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.357 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.358 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.358 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.358 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.359 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.359 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.359 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.360 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.360 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.360 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.360 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.361 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.361 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.361 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.362 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.362 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.362 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.362 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.363 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.363 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.363 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.363 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.363 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.364 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.364 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.364 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.364 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.365 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.365 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.365 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.365 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.365 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.365 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.366 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.366 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.367 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.367 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.367 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.368 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.368 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.368 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.368 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.368 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.369 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.369 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.369 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.369 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.370 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.370 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.370 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.370 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.371 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.371 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.371 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.371 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.371 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.371 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.372 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.372 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.372 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.372 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.373 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.373 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.373 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.373 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.374 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.374 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.374 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.374 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.374 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.374 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.375 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.375 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.375 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.375 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.375 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.375 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.376 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.376 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.376 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.376 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.377 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.377 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.377 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.377 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.378 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.378 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.378 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.378 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.378 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.379 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.379 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.379 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.379 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.379 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.380 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.380 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.380 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.380 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.381 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.381 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.381 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.381 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.382 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.382 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.382 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.382 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.382 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.382 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.383 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.383 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.383 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.383 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.384 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.384 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.385 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.385 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.385 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:25:57.386 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:25:57.386 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:32:22.993 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:34:14.311 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:34:14.323 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
+21:34:20.672 [main] INFO  com.maventest.LoggingDemo - Counting words
+21:34:20.677 [main] ERROR com.maventest.LoggingDemo - C:\Users\aaron\Desktop\ColorConter.txt (The system cannot find the file specified)
+20:28:09.838 [main] INFO  com.maventest.LoggingDemo - Counting words
+20:28:09.853 [main] INFO  com.maventest.LoggingDemo - Finished Counting Words
